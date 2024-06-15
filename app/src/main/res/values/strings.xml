@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My RESTful App</string>
+    <string name="btn_value">Presioname para ver los usuarios 😊</string>
+</resources>
